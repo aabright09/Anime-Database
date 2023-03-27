@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anime-database/static/css/main.f4cc8929.css",
+    "main.js": "/anime-database/static/js/main.c24f68bc.js",
+    "index.html": "/anime-database/index.html",
+    "main.f4cc8929.css.map": "/anime-database/static/css/main.f4cc8929.css.map",
+    "main.c24f68bc.js.map": "/anime-database/static/js/main.c24f68bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4cc8929.css",
+    "static/js/main.c24f68bc.js"
+  ]
+}
